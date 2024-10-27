@@ -8,9 +8,9 @@ fn main() {
 }
 
 fn gives_ownership() -> String {
-    let some_string = String::from("hello");
 
-    some_string
+    String::from("hello")
+    
 }
 
 fn takes_and_gives_back(a_string: String) -> String {

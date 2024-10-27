@@ -24,7 +24,7 @@ fn main() {
 }
 
 fn no_dangle() -> String {
-    let s = String::from("hello");
+    
 
-    s
+    String::from("hello")
 }
