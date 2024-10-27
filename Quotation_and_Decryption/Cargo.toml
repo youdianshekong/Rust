@@ -1,0 +1,6 @@
+[package]
+name = "Quotation_and_Decryption"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
