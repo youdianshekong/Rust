@@ -11,7 +11,7 @@ fn greet(name: String) {
     println!("Hello,{}!", name);
 } */
 
-fn main() {
+/* fn main() {
     let mut s = String::from("hello world");
 
     let word = first_word(&s);
@@ -23,4 +23,4 @@ fn main() {
 
 fn first_word(s: &String) -> &str {
     &s[..1]
-}
+} */
