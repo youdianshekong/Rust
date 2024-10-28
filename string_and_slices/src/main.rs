@@ -79,9 +79,9 @@ fn say_hello(s: &str) {
     dbg!(string_remove);
 } */
 
-/* fn main() {
+fn main() {
     let mut string_truncate = String::from("测试truncate");
     string_truncate.truncate(3);
     dbg!(string_truncate);
-} */
+}
 
